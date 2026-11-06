@@ -25,7 +25,7 @@ param=13=.project-alpha.dev
 param=14=0
 param=15=0
 param=16=false
-param=17=http://localhost:8765/world_list.ws
+param=17=https://raw.githubusercontent.com/MKNOR/pa-config/refs/heads/main/world_list.ws
 param=18=
 param=19=196515767
 param=20=true
