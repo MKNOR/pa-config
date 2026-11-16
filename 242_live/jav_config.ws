@@ -1,7 +1,7 @@
 msg=
 title=Project Alpha
 adverturl=
-codebase=http://127.0.0.1/
+codebase=http://81.167.98.63/
 cachedir=.project-alpha
 storebase=0
 initial_jar=gamepack_242.jar
